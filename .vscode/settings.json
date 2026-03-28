@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Midtern-Nerve-Wheelfrenzy.slnx"
+    "dotnet.defaultSolution": "229c-Nerve-Wheelfrenzy2.slnx"
 }
